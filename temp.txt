@@ -2,3 +2,6 @@ This is temp file
 
 
 this is new line in temp.txt
+
+
+This latest line
